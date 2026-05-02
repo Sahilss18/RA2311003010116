@@ -1,0 +1,15 @@
+{
+  "name": "notification_app_be",
+  "version": "1.0.0",
+  "description": "Basic notification backend service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["notification", "backend", "microservice"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
