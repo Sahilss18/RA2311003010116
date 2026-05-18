@@ -1,5 +1,3 @@
-# RA2311003010116
-
 # Vehicle Maintenance Scheduler
 
 ## Overview
